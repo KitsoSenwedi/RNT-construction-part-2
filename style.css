@@ -1,0 +1,8 @@
+#sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    position: fixed;
+  top: 0;
+  left: 0;
+    /* Add any other desired styles */
+  }
